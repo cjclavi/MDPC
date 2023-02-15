@@ -9,10 +9,3 @@ The multi-period transportation and logistics procurement planning problem deals
 for a logistics intermediary company (shipper).
 
 
-# Methodology:
-
-
-
-
-# Study:
-
