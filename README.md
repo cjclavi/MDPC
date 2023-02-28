@@ -1,5 +1,5 @@
 # MDPC
-Multi-period distribution networks problem with purchase commitment contracts
+Multi-period distribution network problem with purchase commitment contracts
 
 # Summary:
 The multi-period transportation and logistics procurement planning problem deals with: 
